@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: Camel :: Example :: Netty HTTP :: My Application
+  Two
+Implementation-Version: 2.18.2
+Built-By: elink
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Camel :: Example :: Netty HTTP :: My Application 
+ Two
+Implementation-Vendor-Id: org.apache.camel
+Build-Jdk: 1.8.0_121
+Specification-Version: 2.18.2
+Implementation-URL: http://camel.apache.org/camel-parent/examples/came
+ l-example-netty-http/camel-example-netty-myapp-two
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Apache Software Foundation
+
